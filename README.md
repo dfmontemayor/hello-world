@@ -1,2 +1,3 @@
 # hello-world
-test
+Hi there!
+Just playing here with GitHub, doing my first branch edit.
